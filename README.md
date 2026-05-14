@@ -24,17 +24,17 @@ I believe that growth only happens at the edge of your comfort zone where nervou
 - **Reading:** Currently exploring self-help and mindset books to optimize my performance.
 
 
-## Random Facts About Me
+## 😌Random Facts About Me
 - MUSIC = relaxation 🎧
 - I'm obsessed with Learning new things 🌐
 
-## Contact Me
+## 🙋Contact Me
 Feel free to drop me an email at jordimukhala@gmail.com or reach out on social media.
 
 
 ---
 
-## 📬 Find me Online:
+## 👇 Find me Online:
 [LinkedIn](YOUR_LINKEDIN_URL) | [INSTAGRAM](YOUR_PORTFOLIO_URL) | [Email](mailto:jordi.m24@iiits.in)
 
 ---
