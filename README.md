@@ -1,5 +1,7 @@
 # Hi there, I'm JORDI MATHEW👋
 
+![Alternative text here](myimage.jpeg)
+
 I am an **Electronics and Communication Engineering** student with a passion for building systems that combine Technologies and are insanely useful and cool. My goal is to develop automation and robotics solutions that drive tangible change.
 
 ## 🚀 What I’m Interested
