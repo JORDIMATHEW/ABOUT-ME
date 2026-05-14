@@ -1,34 +1,18 @@
 # Hi there, I'm Jordi Mathew 👋
 
-I am an **Electronics and Communication Engineering** student with a passion for building systems that bridge the gap between hardware and intelligence. My goal is to develop automation and robotics solutions that drive tangible change.
+I am an **Electronics and Communication Engineering** student passionate about **robotics**, **AI/ML**, and building intelligent systems that solve real-world problems.
 
-### 🚀 What I’m Working On
-- **Robotics & Automation:** Integrating AI/ML into physical systems to solve real-world problems.
-- **Chip & PCB Design:** Designing efficient electronic systems, from schematic capture to physical layout.
-- **Embedded Systems:** Leveraging platforms like ESP32, Raspberry Pi, and Arduino for smart tracking and motor control.
-- **Bio-Engineering Research:** Exploring the intersection of deep learning and EEG-based motor imagery.
+## /Find Me Online
+- Instagram: @abhijit.wav
+- LinkedIn: @abhijiiitpatil
+- GitHub: @abhijit-23blaze
 
-### 🛠️ Technical Toolkit
-*   **Languages:** Python, C++, SQL, HTML/CSS
-*   **Hardware/Embedded:** Arduino, ESP32, Raspberry Pi, Neo-6M GPS
-*   **Design & Simulation:** LTspice, EasyEDA, ROS, Gazebo, PyBullet
-*   **Tools:** Power BI, LaTeX, Flask
+## /Random Facts About Me
+- I'm a night owl 🌙
+- Podcasts = relaxation 🎧
+- I'm obsessed with robotics and AI/ML tech 🌐
 
-### 🏆 Key Highlights
-- **GeoGuide:** Developed a location-based assistant using Flask and SQL.
-- **Hackathon Winner:** Secured 3rd place at the **Agentica Inter-College Hackathon**.
-- **Certified:** NPTEL Certifications in **Electronic Systems Design** and **PCB Design**.
+## /Contact Me
+Feel free to drop me an email at your.email@example.com or reach out on social media.
 
-### 🧠 Beyond the Code
-I believe that growth only happens at the edge of your comfort zone. When I'm not at my desk, you'll likely find me:
-- **Challenging My Limits:** In the gym or on the **badminton** court.
-- **Side Quests:** Diving into **Psychology**, **Astrophysics**, and **Bio-Engineering**.
-- **Reading:** Currently exploring self-help and mindset books to optimize my performance.
-
----
-
-### 📬 Connect with me:
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | [Email](mailto:your.email@example.com)
-
----
-*"Building things that actually matter."*
+Thanks for visiting!
