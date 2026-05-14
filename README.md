@@ -2,7 +2,7 @@
 
 <img src="myimage1.jpeg" width="450" alt="My Robot Project">
 
-I am an **Electronics and Communication Engineering** student with a passion for building systems that combine Technologies and are insanely useful and cool. My goal is to develop automation and robotics solutions that drive tangible change.
+I am an **Electronics and Communication Engineering** student with a passion for building systems that combine Technologies and are insanely useful and cool.
 
 ## 🚀 What I’m Interested
 - **Robotics & Automation:** Combining deep neural workflows into physical systems to solve real-world problems.
